@@ -7,7 +7,7 @@
 
 Welcome to my profile! My name is paul77ms (Minsoo Kim). This is a space containing my development activities. I enjoy learning new skills and look forward to collaboration opportunities. If you have any questions or suggestions, please feel free to contact us. Then feel free to take a look! 😊
 
-### 🏆 Competition award
+### 🏆 Competition awards
 Here are my competition awards.
 
 ### 💻 My projects
