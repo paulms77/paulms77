@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   </div>
 <div align=center>
   
-	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clash833277@gmail.com)]  (mailto:clash833277@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clash833277@gmail.com)]  (mailto:clash833277@gmail.com)
  
 </div>
