@@ -1,7 +1,6 @@
 <h1 align=center>
    안녕하세요 👋
-	</h1>
-# Paul77ms
+  </h1>
  
 <div align=center>
 	
