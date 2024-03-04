@@ -21,3 +21,7 @@ Here are some ideas to get you started:
   ![followers](https://img.shields.io/github/followers/username?style=social)
 	
   </div>
+
+
+![로고명](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=White)
+![로고명](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=Black)
