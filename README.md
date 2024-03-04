@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={paulms77}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulms77)](https://github.com/anuraghazra/github-readme-stats)
