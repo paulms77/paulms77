@@ -20,12 +20,10 @@ Here are my competition awards.
 
 ### 💻 My projects
 Here are my projects.
-- MBTI-Contents development
-- Birdirectional-LSTM Based Stock Prediction
-- Wallpaper defects knowledge chat service
+- *MBTI-Contents development*
+- Birdirectional-LSTM Based Stock Prediction*
+- *Wallpaper defects knowledge chat service*
 
-
-  
 ### 🛠️ Technology Stacks
 Here are the technology stacks I have used and experienced.
 
