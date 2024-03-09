@@ -9,6 +9,7 @@ Welcome to my profile! My name is paul77ms (Minsoo Kim). This is a space contain
 
 ### 🏆 Competition awards
 Here are my competition awards.
+
 🏅 운동 동작 분류 AI 경진대회 - 6th (6/1,258)
 
 🏅 인공지능 비트 트레이더 경진대회 - 3th (3/1,394)
