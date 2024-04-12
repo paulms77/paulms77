@@ -24,7 +24,7 @@ Here are my projects.
 - *Birdirectional-LSTM Based Stock Prediction*
 - *Wallpaper defects knowledge chat service*
 
-### Certification
+### ✔️ specialty Certification
 - Computer literacy level 2
 - SQLD
 
