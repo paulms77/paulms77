@@ -5,7 +5,7 @@
   ![followers](https://img.shields.io/github/followers/username?style=social)
 <a href="https://dacon.io/myprofile/412049/home/"><img src="https://img.shields.io/badge/Dacon-3776AB?style=flat-square&logo=D&logoColor=white"/><a href="https://dacon.io/myprofile/412049/home/"><img src="https://img.shields.io/badge/Challenger-A100FF?style=flat-square&logo=Challenger&logoColor=white"/>
 
-Welcome to my profile! My name is paul77ms (Minsoo Kim). This is a space containing my development activities. I enjoy learning new skills and look forward to collaboration opportunities. If you have any questions or suggestions, please feel free to contact us. Then feel free to take a look! 😊
+Welcome to my profile! My name is paul77ms (Minsoo Kim). This is a space containing my development activities. I enjoy learning new skills and look forward to collaboration opportunities. If you have any questions or suggestions, please feel free to contact me. Then feel free to take a look! 😊
 
 ### 🏆 Competition awards
 Here are my competition awards.
